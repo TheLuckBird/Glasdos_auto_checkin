@@ -9,6 +9,8 @@ GitHub Actions 实现 [GLaDOS][glados] 自动签到
 1. Fork 这个仓库
 
 1. 登录 [GLaDOS][glados] 获取 Cookie
+   ![image](https://github.com/TheLuckBird/Glasdos_auto_checkin/assets/97025498/b114300b-7e54-4586-b0c4-359366e41c44)
+
 
 1. 添加 Cookie 到 Secret `GLADOS`
 
